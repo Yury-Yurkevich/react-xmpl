@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-xmpl/static/css/main.7acaea2f.css",
+    "main.js": "/react-xmpl/static/js/main.e64006c2.js",
+    "index.html": "/react-xmpl/index.html",
+    "main.7acaea2f.css.map": "/react-xmpl/static/css/main.7acaea2f.css.map",
+    "main.e64006c2.js.map": "/react-xmpl/static/js/main.e64006c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.e64006c2.js"
+  ]
+}
